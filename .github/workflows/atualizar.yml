@@ -1,1 +1,51 @@
+name: Atualizar lista KE TV
 
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 */6 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Baixar repositório
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar dependências
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4
+
+      - name: Gerar playlist
+        run: python gerar_lista.py
+
+      - name: Verificar arquivo
+        run: |
+          test -f ketv.m3u
+          head -n 1 ketv.m3u
+          grep -q '^#EXTINF:' ketv.m3u || {
+            echo "Nenhum canal validado nesta execução; não será feito commit."
+            exit 1
+          }
+
+      - name: Publicar alteração
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add ketv.m3u
+          if git diff --cached --quiet; then
+            echo "Nenhuma alteração na playlist."
+          else
+            git commit -m "Atualizar playlist KE TV"
+            git push
+          fi
