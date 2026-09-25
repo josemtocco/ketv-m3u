@@ -82,7 +82,7 @@ https://isaocorp.cloudecast.com/tvgramado/tracks-v1/index.m3u8
 #EXTINF:-1 tvg-name="TV Mais Pet" group-title="Canais Abertos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",TV Mais Pet
 https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Maná Moçambique ao vivo — evangelho e programação cristã" group-title="Canais Abertos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",TV Maná Moçambique ao vivo — evangelho e programação cristã
-https://w2.manasat.com/tvmana-mz/smil:tvmana-mz.smil/chunklist_w1700686021_b30048000_sleng.m3u8
+https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/720p/index.m3u8
 #EXTINF:-1 tvg-name="TV MAX" group-title="Canais Abertos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",TV MAX
 https://video09.logicahost.com.br/tvmax/tvmax/chunklist_w427239309.m3u8
 #EXTINF:-1 tvg-name="Tv Olho D'água" group-title="Canais Abertos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",Tv Olho D'água
@@ -278,7 +278,7 @@ https://stmv1.voxtvhd.com.br/7070/7070/playlist.m3u8
 #EXTINF:-1 tvg-name="REDE DE RÁDIO E TV WEB JESUS CRISTO PARA AS NAÇÕES" group-title="Gospel" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",REDE DE RÁDIO E TV WEB JESUS CRISTO PARA AS NAÇÕES
 https://stmv4.liveplushd.com.br/robertomaciel/robertomaciel/chunklist_w338675785.m3u8
 #EXTINF:-1 tvg-name="Rede Plenitude" group-title="Gospel" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",Rede Plenitude
-https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/720p/index.m3u8
+https://strv.painelvox.top/plenitude/plenitude/chunklist_w1853401077.m3u8
 #EXTINF:-1 tvg-name="Rede Super" group-title="Gospel" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",Rede Super
 https://tv02.zas.media:1936/redesuper/redesuper/chunklist_w254808281.m3u8
 #EXTINF:-1 tvg-name="Rede Universo TV" group-title="Gospel" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",Rede Universo TV
