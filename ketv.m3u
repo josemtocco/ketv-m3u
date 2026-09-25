@@ -66,7 +66,7 @@ https://br5093.streamingdevideo.com.br/tvaberto/tvaberto/chunklist_w1246494359.m
 #EXTINF:-1 tvg-name="TV Capital" group-title="Canais Abertos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",TV Capital
 https://stmv7.samcast.com.br/raimundoanselmolimamororo9090/raimundoanselmolimamororo9090/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Clube RN" group-title="Canais Abertos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",TV Clube RN
-https://radios.braviahost.com.br:2020/hls/tvclubern/1080p.m3u8
+https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/720p/index.m3u8
 #EXTINF:-1 tvg-name="TV Conquista Afiliada Rede Record" group-title="Canais Abertos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",TV Conquista Afiliada Rede Record
 https://tvconquistalrv.duckdns.org:3334/hls/tvconquistalrv.m3u8
 #EXTINF:-1 tvg-name="TV Diario do Brasil Bauru SP" group-title="Canais Abertos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",TV Diario do Brasil Bauru SP
@@ -96,7 +96,7 @@ https://video02.logicahost.com.br/tvriopreto/tvriopreto/chunklist_w32033332.m3u8
 #EXTINF:-1 tvg-name="TVI" group-title="Canais Abertos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",TVI
 https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/720p/index.m3u8
 #EXTINF:-1 tvg-name="TVI Ficção" group-title="Canais Abertos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",TVI Ficção
-https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/720p/index.m3u8
+https://video-auth6.iol.pt/live_tvi_ficcao/live_tvi_ficcao/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEyOjUwOjEwIEFNJmhhc2hfdmFsdWU9VEp2eEIybnpaR1JpT2c2M2ZieXd4QT09JnZhbGlkbWludXRlcz0xNDQwJmlkPThjNDRmZGI0LWYwNWYtNGFlMi04YWQxLTAxZWUwMzQxNTY1OA==
 #EXTINF:-1 tvg-name="TVI Internacional ao vivo — Portugal para o mundo" group-title="Canais Abertos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",TVI Internacional ao vivo — Portugal para o mundo
 https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/720p/index.m3u8
 #EXTINF:-1 tvg-name="TVI Reality Big Brother - Big Brother Verão - Ligação à Casa" group-title="Canais Abertos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",TVI Reality Big Brother - Big Brother Verão - Ligação à Casa
@@ -272,7 +272,7 @@ https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 #EXTINF:-1 tvg-name="Igreja Online" group-title="Gospel" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",Igreja Online
 https://vz-68323952-633.b-cdn.net/77de4c9e-b8c2-487c-87f0-f333f267ac0f/1080p/video.m3u8
 #EXTINF:-1 tvg-name="IMPD TV" group-title="Gospel" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",IMPD TV
-https://68882bdaf156a.streamlock.net/impd/ngrp:impd_all/chunklist_w766912441_b2691072.m3u8
+https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/720p/index.m3u8
 #EXTINF:-1 tvg-name="Rede Alfa" group-title="Gospel" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",Rede Alfa
 https://stmv1.voxtvhd.com.br/7070/7070/playlist.m3u8
 #EXTINF:-1 tvg-name="REDE DE RÁDIO E TV WEB JESUS CRISTO PARA AS NAÇÕES" group-title="Gospel" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",REDE DE RÁDIO E TV WEB JESUS CRISTO PARA AS NAÇÕES
@@ -280,7 +280,7 @@ https://stmv4.liveplushd.com.br/robertomaciel/robertomaciel/chunklist_w338675785
 #EXTINF:-1 tvg-name="Rede Plenitude" group-title="Gospel" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",Rede Plenitude
 https://strv.painelvox.top/plenitude/plenitude/chunklist_w1853401077.m3u8
 #EXTINF:-1 tvg-name="Rede Super" group-title="Gospel" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",Rede Super
-https://tv02.zas.media:1936/redesuper/redesuper/chunklist_w254808281.m3u8
+https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/720p/index.m3u8
 #EXTINF:-1 tvg-name="Rede Universo TV" group-title="Gospel" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",Rede Universo TV
 https://srv5.zcast.com.br/universotv/universotv/playlist.m3u8
 #EXTINF:-1 tvg-name="RIT TV" group-title="Gospel" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",RIT TV
