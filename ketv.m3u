@@ -102,7 +102,7 @@ https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/720p/index.m3u8
 #EXTINF:-1 tvg-name="TVI Reality Big Brother - Big Brother Verão - Ligação à Casa" group-title="Canais Abertos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",TVI Reality Big Brother - Big Brother Verão - Ligação à Casa
 https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/720p/index.m3u8
 #EXTINF:-1 tvg-name="UMA TV ao vivo — entretenimento, esporte e informação" group-title="Canais Abertos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",UMA TV ao vivo — entretenimento, esporte e informação
-https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/720p/index.m3u8
+https://umatv.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Bem Melhor" group-title="Culinária" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",Bem Melhor
 https://video01.logicahost.com.br/bemmelhor/bemmelhor/chunklist_w1111299609.m3u8
 #EXTINF:-1 tvg-name="Master Chef Brasil" group-title="Culinária" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",Master Chef Brasil
@@ -142,7 +142,7 @@ https://video01.brascast.com/rede1220/rede1220/playlist.m3u8?hls_ctx=323409ok
 #EXTINF:-1 tvg-name="TV Futuro" group-title="Desenhos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",TV Futuro
 https://tv03.zas.media:1936/tvfuturo/tvfuturo/chunklist_w481092213.m3u8
 #EXTINF:-1 tvg-name="TV Kidmais" group-title="Desenhos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",TV Kidmais
-https://stmv1.transmissaodigital.com/tvkidmais/tvkidmais/playlist.m3u8?hls_ctx=5k40b276
+https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/720p/index.m3u8
 #EXTINF:-1 tvg-name="Canal 25" group-title="Documentários" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",Canal 25
 https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
 #EXTINF:-1 tvg-name="Hardcore Pawn ao vivo — negociações, conflitos e loja de penhores" group-title="Documentários" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",Hardcore Pawn ao vivo — negociações, conflitos e loja de penhores
@@ -278,7 +278,7 @@ https://stmv1.voxtvhd.com.br/7070/7070/playlist.m3u8
 #EXTINF:-1 tvg-name="REDE DE RÁDIO E TV WEB JESUS CRISTO PARA AS NAÇÕES" group-title="Gospel" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",REDE DE RÁDIO E TV WEB JESUS CRISTO PARA AS NAÇÕES
 https://stmv4.liveplushd.com.br/robertomaciel/robertomaciel/chunklist_w338675785.m3u8
 #EXTINF:-1 tvg-name="Rede Plenitude" group-title="Gospel" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",Rede Plenitude
-https://strv.painelvox.top/plenitude/plenitude/chunklist_w1853401077.m3u8
+https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/720p/index.m3u8
 #EXTINF:-1 tvg-name="Rede Super" group-title="Gospel" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",Rede Super
 https://tv02.zas.media:1936/redesuper/redesuper/chunklist_w254808281.m3u8
 #EXTINF:-1 tvg-name="Rede Universo TV" group-title="Gospel" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",Rede Universo TV
