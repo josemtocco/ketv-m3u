@@ -25,6 +25,8 @@ https://video07.logicahost.com.br/rssports03/rssports03/playlist.m3u8
 https://video07.logicahost.com.br/rssports04/rssports04/playlist.m3u8
 #EXTINF:-1 tvg-name="RS Sports News 5" group-title="Esportes" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",RS Sports News 5
 https://video07.logicahost.com.br/rsnews01/rsnews01/playlist.m3u8
+#EXTINF:-1 tvg-name="Unique Sports 1" group-title="Esportes" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",Unique Sports 1
+https://pop.uniquetv.com.br/uniquesports1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="KE TV Filmes Online" group-title="Filmes" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",KE TV Filmes Online
 https://stmv1.srvif.com/tvadorando/tvadorando/playlist.m3u8
 #EXTINF:-1 tvg-name="Mr Bean" group-title="Filmes" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",Mr Bean
