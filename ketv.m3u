@@ -64,7 +64,7 @@ https://video11.logicahost.com.br/sertaotv/sertaotv/chunklist_w265415093.m3u8
 #EXTINF:-1 tvg-name="SGC Tv - Rede TV Rondônia" group-title="Canais Abertos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",SGC Tv - Rede TV Rondônia
 https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/720p/index.m3u8
 #EXTINF:-1 tvg-name="SIC Replay" group-title="Canais Abertos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",SIC Replay
-https://production-fast-sic.content.okast.tv/channels/d9070446-8448-455e-8075-773b1ba12562/d47eae0f-ad77-414a-9a1d-2a6628ba18c3/media_video_1080p30.m3u8?bpkio_serviceid=fa2e8c4385712f9a7dce4ff2dcebac2e&bpkio_sessionid=10d1b138d241-bd75e035-db88-4399-82ce-8d70abe8d533&category=all&mm_sp
+https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/720p/index.m3u8
 #EXTINF:-1 tvg-name="SPARK TV LUZ E AMOR" group-title="Canais Abertos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",SPARK TV LUZ E AMOR
 https://candlelightmedia-sparklightlove-3-br.plex.wurl.tv/4300.m3u8
 #EXTINF:-1 tvg-name="TCM- TV Cabo Mossoró" group-title="Canais Abertos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",TCM- TV Cabo Mossoró
@@ -182,7 +182,7 @@ https://video01.brascast.com/rede1220/rede1220/playlist.m3u8?hls_ctx=323409ok
 #EXTINF:-1 tvg-name="TV Futuro" group-title="Desenhos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",TV Futuro
 https://tv03.zas.media:1936/tvfuturo/tvfuturo/chunklist_w481092213.m3u8
 #EXTINF:-1 tvg-name="TV Kidmais" group-title="Desenhos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",TV Kidmais
-https://stmv1.transmissaodigital.com/tvkidmais/tvkidmais/playlist.m3u8?hls_ctx=5k40b276
+https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/720p/index.m3u8
 #EXTINF:-1 tvg-name="TV Maná 2" group-title="Desenhos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",TV Maná 2
 https://w1.manasat.com/tvmana-2/smil:tvmana-2.smil/chunklist_w1005453751_b3048000_sleng.m3u8
 #EXTINF:-1 tvg-name="Canal 25" group-title="Documentários" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",Canal 25
@@ -308,7 +308,7 @@ https://almagospel.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Chroma TV" group-title="Gospel" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",Chroma TV
 https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
 #EXTINF:-1 tvg-name="Fonte TV" group-title="Gospel" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",Fonte TV
-https://59fb88a1b1108.streamlock.net/fonte/_definst_/fontetv/chunklist_w1723703555.m3u8
+https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/720p/index.m3u8
 #EXTINF:-1 tvg-name="Fé TV" group-title="Gospel" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",Fé TV
 https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/720p/index.m3u8
 #EXTINF:-1 tvg-name="Gospel Movie Television" group-title="Gospel" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",Gospel Movie Television
@@ -418,7 +418,7 @@ https://video01.logicahost.com.br/newsrondonia/newsrondonia/chunklist_w457531255
 #EXTINF:-1 tvg-name="Record News" group-title="Notícias" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",Record News
 https://run-rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high.m3u8
 #EXTINF:-1 tvg-name="Ribeirão Web News" group-title="Notícias" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",Ribeirão Web News
-https://aovivo.ribeiraowebnews.com.br/hls/play.m3u8
+https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/720p/index.m3u8
 #EXTINF:-1 tvg-name="SBT News" group-title="Notícias" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",SBT News
 https://sbtnews.maissbt.com/3.m3u8
 #EXTINF:-1 tvg-name="TV CNB NEWS" group-title="Notícias" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",TV CNB NEWS
