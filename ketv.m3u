@@ -418,7 +418,7 @@ https://video01.logicahost.com.br/newsrondonia/newsrondonia/chunklist_w457531255
 #EXTINF:-1 tvg-name="Record News" group-title="Notícias" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",Record News
 https://run-rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high.m3u8
 #EXTINF:-1 tvg-name="Ribeirão Web News" group-title="Notícias" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",Ribeirão Web News
-https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/720p/index.m3u8
+https://aovivo.ribeiraowebnews.com.br/hls/play.m3u8
 #EXTINF:-1 tvg-name="SBT News" group-title="Notícias" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",SBT News
 https://sbtnews.maissbt.com/3.m3u8
 #EXTINF:-1 tvg-name="TV CNB NEWS" group-title="Notícias" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",TV CNB NEWS
