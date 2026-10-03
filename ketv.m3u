@@ -30,7 +30,7 @@ https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/playlist.m3u8
 #EXTINF:-1 tvg-name="Fama TV ao vivo — informação local de Famalicão" group-title="Canais Abertos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",Fama TV ao vivo — informação local de Famalicão
 https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/720p/index.m3u8
 #EXTINF:-1 tvg-name="ISTV" group-title="Canais Abertos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",ISTV
-https://video10.logicahost.com.br/redeistv/redeistv/chunklist_w358428910.m3u8
+https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/720p/index.m3u8
 #EXTINF:-1 tvg-name="Já Viu TV Play" group-title="Canais Abertos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",Já Viu TV Play
 https://stmv5.samcast.com.br/val4355/val4355/playlist.m3u8
 #EXTINF:-1 tvg-name="MASPER TV" group-title="Canais Abertos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",MASPER TV
@@ -60,7 +60,7 @@ https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/720p/index.m3u8
 #EXTINF:-1 tvg-name="Reisen Clube TV" group-title="Canais Abertos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",Reisen Clube TV
 https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/720p/index.m3u8
 #EXTINF:-1 tvg-name="RS Play TV" group-title="Canais Abertos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",RS Play TV
-https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/720p/index.m3u8
+https://tv03.zas.media:1936/rsplay/rsplay/chunklist_w42821153.m3u8
 #EXTINF:-1 tvg-name="SBT Interior SP" group-title="Canais Abertos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",SBT Interior SP
 https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
 #EXTINF:-1 tvg-name="Sertão TV" group-title="Canais Abertos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",Sertão TV
@@ -88,7 +88,7 @@ https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.
 #EXTINF:-1 tvg-name="TV Clube RN" group-title="Canais Abertos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",TV Clube RN
 https://radios.braviahost.com.br:2020/hls/tvclubern/1080p.m3u8
 #EXTINF:-1 tvg-name="TV Conexão" group-title="Canais Abertos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",TV Conexão
-https://video10.logicahost.com.br/tvbrasilangola/tvbrasilangola/chunklist_w146401506.m3u8
+https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/720p/index.m3u8
 #EXTINF:-1 tvg-name="TV Conquista Afiliada Rede Record" group-title="Canais Abertos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",TV Conquista Afiliada Rede Record
 https://tvconquistalrv.duckdns.org:3334/hls/tvconquistalrv.m3u8
 #EXTINF:-1 tvg-name="TV da Cidade Joinville – SC" group-title="Canais Abertos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",TV da Cidade Joinville – SC
@@ -96,7 +96,7 @@ https://cdn.live.br1.jmvstream.com/w/LVW-8855/LVW8855_u7a7C4Oa4F/chunklist.m3u8
 #EXTINF:-1 tvg-name="TV Diario do Brasil Bauru SP" group-title="Canais Abertos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",TV Diario do Brasil Bauru SP
 https://video01.brascast.com/paulispar7372/paulispar7372/playlist.m3u8?hls_ctx=d7o97228
 #EXTINF:-1 tvg-name="TV Gazeta" group-title="Canais Abertos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",TV Gazeta
-https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/720p/index.m3u8
+https://video08.logicahost.com.br/tvc21/tvc21/chunklist_w930922724.m3u8
 #EXTINF:-1 tvg-name="TV Gaúcha" group-title="Canais Abertos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",TV Gaúcha
 https://stmv3.voxtvhd.com.br/tvgaucha/tvgaucha/playlist.m3u8
 #EXTINF:-1 tvg-name="Tv Goitacá" group-title="Canais Abertos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",Tv Goitacá
@@ -124,7 +124,7 @@ https://video04.logicahost.com.br/tvpampa/tvpampa/chunklist_w107694160.m3u8
 #EXTINF:-1 tvg-name="TV Pantanal MS" group-title="Canais Abertos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",TV Pantanal MS
 https://59d39900ebfb8.streamlock.net/tvpantanalms/tvpantanalms/chunklist_w1733080621.m3u8
 #EXTINF:-1 tvg-name="TV Rio Madeira" group-title="Canais Abertos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",TV Rio Madeira
-https://video10.logicahost.com.br/canaanews/canaanews/chunklist_w248715909.m3u8
+https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/720p/index.m3u8
 #EXTINF:-1 tvg-name="TV Rio Preto" group-title="Canais Abertos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",TV Rio Preto
 https://video02.logicahost.com.br/tvriopreto/tvriopreto/chunklist_w32033332.m3u8
 #EXTINF:-1 tvg-name="TV TVR" group-title="Canais Abertos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",TV TVR
@@ -348,7 +348,7 @@ https://video04.logicahost.com.br/tvapostolos/tvapostolos/chunklist_w1072270158.
 #EXTINF:-1 tvg-name="TV Avivando Nações" group-title="Gospel" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",TV Avivando Nações
 https://video04.logicahost.com.br/tvavivandonacoes/tvavivandonacoes/chunklist_w2092081966.m3u8
 #EXTINF:-1 tvg-name="TV BRASIL ANGOLA" group-title="Gospel" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",TV BRASIL ANGOLA
-https://video10.logicahost.com.br/tvbrasilangola/tvbrasilangola/chunklist_w915207515.m3u8
+https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/720p/index.m3u8
 #EXTINF:-1 tvg-name="TV CONEXÃO CELESTIAL" group-title="Gospel" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",TV CONEXÃO CELESTIAL
 https://stmv7.voxtvhd.com.br/tvconexaocelestial/tvconexaocelestial/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Evangeliza" group-title="Gospel" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",TV Evangeliza
@@ -356,7 +356,7 @@ https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/720p/index.m3u8
 #EXTINF:-1 tvg-name="TV Feliz" group-title="Gospel" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",TV Feliz
 https://video01.logicahost.com.br/tvfeliz/tvfeliz/chunklist_w1091223975.m3u8
 #EXTINF:-1 tvg-name="TV GIDEÕES" group-title="Gospel" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",TV GIDEÕES
-https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/720p/index.m3u8
+https://tv01.zas.media:1936/gideoes/gideoes/chunklist_w1082476036.m3u8
 #EXTINF:-1 tvg-name="TV GOSPEL EXODUS DE SALVADOR" group-title="Gospel" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",TV GOSPEL EXODUS DE SALVADOR
 https://stmv7.samcast.com.br/tvexodus/tvexodus/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Maná 1" group-title="Gospel" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",TV Maná 1
