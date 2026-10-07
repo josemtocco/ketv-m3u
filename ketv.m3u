@@ -14,7 +14,7 @@ https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/720p/index.m3u8
 #EXTINF:-1 tvg-name="Brazi TV" group-title="Canais Abertos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",Brazi TV
 https://cbtvnow.com:5866/hls/livest2024_1080p/index.m3u8
 #EXTINF:-1 tvg-name="BS TV" group-title="Canais Abertos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",BS TV
-https://br5093.streamingdevideo.com.br/bstv/bstv/chunklist_w614911970.m3u8
+https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/720p/index.m3u8
 #EXTINF:-1 tvg-name="Canal 2 Cultura" group-title="Canais Abertos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",Canal 2 Cultura
 https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8?vhost=player-tvcultura.stream.uol.com.br
 #EXTINF:-1 tvg-name="Canal Futura" group-title="Canais Abertos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",Canal Futura
@@ -112,7 +112,7 @@ https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Maná Moçambique ao vivo — evangelho e programação cristã" group-title="Canais Abertos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",TV Maná Moçambique ao vivo — evangelho e programação cristã
 https://w2.manasat.com/tvmana-mz/smil:tvmana-mz.smil/chunklist_w1700686021_b30048000_sleng.m3u8
 #EXTINF:-1 tvg-name="TV MARCHETI" group-title="Canais Abertos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",TV MARCHETI
-https://stmv1.samcast.com.br/junior4319/junior4319/playlist.m3u8
+https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/720p/index.m3u8
 #EXTINF:-1 tvg-name="TV MAX" group-title="Canais Abertos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",TV MAX
 https://video09.logicahost.com.br/tvmax/tvmax/chunklist_w427239309.m3u8
 #EXTINF:-1 tvg-name="TV MONTANHA" group-title="Canais Abertos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",TV MONTANHA
@@ -162,7 +162,7 @@ https://srv1.zcast.com.br/maciel1569/maciel1569/playlist.m3u8
 #EXTINF:-1 tvg-name="FOX Kids F. Rede Crianças" group-title="Desenhos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",FOX Kids F. Rede Crianças
 https://video08.logicahost.com.br/kanucatv/kanucatv/chunklist_w412316835.m3u8
 #EXTINF:-1 tvg-name="Geekdot" group-title="Desenhos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",Geekdot
-https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/720p/index.m3u8
+https://stream.ichibansys.com:3764/hybrid/play.m3u8
 #EXTINF:-1 tvg-name="Gospel Cartoon" group-title="Desenhos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",Gospel Cartoon
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
 #EXTINF:-1 tvg-name="JETSONS TV" group-title="Desenhos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",JETSONS TV
