@@ -114,7 +114,7 @@ https://w2.manasat.com/tvmana-mz/smil:tvmana-mz.smil/chunklist_w1700686021_b3004
 #EXTINF:-1 tvg-name="TV MARCHETI" group-title="Canais Abertos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",TV MARCHETI
 https://stmv1.samcast.com.br/junior4319/junior4319/playlist.m3u8
 #EXTINF:-1 tvg-name="TV MAX" group-title="Canais Abertos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",TV MAX
-https://video09.logicahost.com.br/tvmax/tvmax/chunklist_w427239309.m3u8
+https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/720p/index.m3u8
 #EXTINF:-1 tvg-name="TV MONTANHA" group-title="Canais Abertos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",TV MONTANHA
 https://stmv1.srvif.com/tvmontana/tvmontana/playlist.m3u8
 #EXTINF:-1 tvg-name="Tv Olho D'água" group-title="Canais Abertos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",Tv Olho D'água
@@ -124,7 +124,7 @@ https://video04.logicahost.com.br/tvpampa/tvpampa/chunklist_w107694160.m3u8
 #EXTINF:-1 tvg-name="TV Pantanal MS" group-title="Canais Abertos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",TV Pantanal MS
 https://59d39900ebfb8.streamlock.net/tvpantanalms/tvpantanalms/chunklist_w1733080621.m3u8
 #EXTINF:-1 tvg-name="TV Rio Madeira" group-title="Canais Abertos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",TV Rio Madeira
-https://video10.logicahost.com.br/canaanews/canaanews/chunklist_w248715909.m3u8
+https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/720p/index.m3u8
 #EXTINF:-1 tvg-name="TV Rio Preto" group-title="Canais Abertos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",TV Rio Preto
 https://video02.logicahost.com.br/tvriopreto/tvriopreto/chunklist_w32033332.m3u8
 #EXTINF:-1 tvg-name="TV TVR" group-title="Canais Abertos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",TV TVR
@@ -158,7 +158,7 @@ https://cdn.live.br1.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/chunklist.m3u8
 #EXTINF:-1 tvg-name="Anime Channel TV" group-title="Desenhos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",Anime Channel TV
 https://stmv2.painelvideocast.com.br/animetv/animetv/chunklist_w488292470.m3u8
 #EXTINF:-1 tvg-name="BOA ESPERANÇA WEBTV" group-title="Desenhos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",BOA ESPERANÇA WEBTV
-https://srv1.zcast.com.br/maciel1569/maciel1569/playlist.m3u8
+https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/720p/index.m3u8
 #EXTINF:-1 tvg-name="FOX Kids F. Rede Crianças" group-title="Desenhos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",FOX Kids F. Rede Crianças
 https://video08.logicahost.com.br/kanucatv/kanucatv/chunklist_w412316835.m3u8
 #EXTINF:-1 tvg-name="Geekdot" group-title="Desenhos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",Geekdot
@@ -186,7 +186,7 @@ https://video01.brascast.com/rede1220/rede1220/playlist.m3u8?hls_ctx=323409ok
 #EXTINF:-1 tvg-name="TV Futuro" group-title="Desenhos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",TV Futuro
 https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/720p/index.m3u8
 #EXTINF:-1 tvg-name="TV Kidmais" group-title="Desenhos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",TV Kidmais
-https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/720p/index.m3u8
+https://stmv1.transmissaodigital.com/tvkidmais/tvkidmais/playlist.m3u8?hls_ctx=5k40b276
 #EXTINF:-1 tvg-name="TV Maná 2" group-title="Desenhos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",TV Maná 2
 https://w1.manasat.com/tvmana-2/smil:tvmana-2.smil/chunklist_w1005453751_b3048000_sleng.m3u8
 #EXTINF:-1 tvg-name="Canal 25" group-title="Documentários" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",Canal 25
@@ -330,7 +330,7 @@ https://stmv1.voxtvhd.com.br/7070/7070/playlist.m3u8
 #EXTINF:-1 tvg-name="REDE DE RÁDIO E TV WEB JESUS CRISTO PARA AS NAÇÕES" group-title="Gospel" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",REDE DE RÁDIO E TV WEB JESUS CRISTO PARA AS NAÇÕES
 https://stmv4.liveplushd.com.br/robertomaciel/robertomaciel/chunklist_w338675785.m3u8
 #EXTINF:-1 tvg-name="Rede Plenitude" group-title="Gospel" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",Rede Plenitude
-https://strv.painelvox.top/plenitude/plenitude/chunklist_w1853401077.m3u8
+https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/720p/index.m3u8
 #EXTINF:-1 tvg-name="Rede Super" group-title="Gospel" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",Rede Super
 https://tv02.zas.media:1936/redesuper/redesuper/chunklist_w254808281.m3u8
 #EXTINF:-1 tvg-name="Rede Universo TV" group-title="Gospel" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",Rede Universo TV
