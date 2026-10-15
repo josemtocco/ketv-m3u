@@ -106,7 +106,7 @@ https://stmv1.samcast.com.br/eroaldo15634/eroaldo15634/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Mais Pet" group-title="Canais Abertos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",TV Mais Pet
 https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Maná Moçambique ao vivo — evangelho e programação cristã" group-title="Canais Abertos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",TV Maná Moçambique ao vivo — evangelho e programação cristã
-https://w2.manasat.com/tvmana-mz/smil:tvmana-mz.smil/chunklist_w1700686021_b30048000_sleng.m3u8
+https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/720p/index.m3u8
 #EXTINF:-1 tvg-name="TV MARCHETI" group-title="Canais Abertos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",TV MARCHETI
 https://stmv1.samcast.com.br/junior4319/junior4319/playlist.m3u8
 #EXTINF:-1 tvg-name="TV MAX" group-title="Canais Abertos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",TV MAX
@@ -372,7 +372,7 @@ https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Extrema Kids TV" group-title="Infantil" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",Extrema Kids TV
 https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
 #EXTINF:-1 tvg-name="Kuriakos Kids" group-title="Infantil" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",Kuriakos Kids
-https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
+https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/720p/index.m3u8
 #EXTINF:-1 tvg-name="NickToons Brasil" group-title="Infantil" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",NickToons Brasil
 https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
 #EXTINF:-1 tvg-name="89 A Rádio Rock ao vivo — clássicos e novidades do rock" group-title="Música" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",89 A Rádio Rock ao vivo — clássicos e novidades do rock
@@ -382,11 +382,11 @@ https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/720p/index.m3u8
 #EXTINF:-1 tvg-name="Betelhost Sertanejo" group-title="Música" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",Betelhost Sertanejo
 https://srv3.zcast.com.br/betelhostbr/betelhostbr/playlist.m3u8
 #EXTINF:-1 tvg-name="Kiss TV ao vivo — clipes, rankings e sucessos" group-title="Música" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",Kiss TV ao vivo — clipes, rankings e sucessos
-https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131_output_0.m3u8
+https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/720p/index.m3u8
 #EXTINF:-1 tvg-name="Retro Music Television ao vivo — videoclipes dos anos 60 aos 2000" group-title="Música" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",Retro Music Television ao vivo — videoclipes dos anos 60 aos 2000
 https://newstream.mediawork.cz/retrotv/smil:retrotv_new.smil/chunklist_w844622932_b3256000.m3u8
 #EXTINF:-1 tvg-name="ROCK TV ao vivo — rock clássico e guitarras online" group-title="Música" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",ROCK TV ao vivo — rock clássico e guitarras online
-https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb_output_0.m3u8
+https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/720p/index.m3u8
 #EXTINF:-1 tvg-name="That's 80s ao vivo — hits e estética dos anos 80" group-title="Música" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",That's 80s ao vivo — hits e estética dos anos 80
 https://lightning-now80s-rakuten.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-name="That's 90s00s ao vivo — clipes dos anos 90 e 2000" group-title="Música" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",That's 90s00s ao vivo — clipes dos anos 90 e 2000
