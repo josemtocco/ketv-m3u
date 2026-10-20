@@ -4,7 +4,7 @@ https://stmv1.samcast.com.br/beatpapo/beatpapo/playlist.m3u8
 #EXTINF:-1 tvg-name="ABC Brasil" group-title="Canais Abertos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",ABC Brasil
 https://servidor2.vcrmedia.com.br/hls/canalabc_src.m3u8
 #EXTINF:-1 tvg-name="ADBTV" group-title="Canais Abertos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",ADBTV
-https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/720p/index.m3u8
+https://live.wayone.cloud/adbtv/adbtv/chunklist_w250830643.m3u8
 #EXTINF:-1 tvg-name="Araruna" group-title="Canais Abertos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",Araruna
 https://video05.logicahost.com.br/ararunatv/ararunatv/chunklist_w2045664646.m3u8
 #EXTINF:-1 tvg-name="Band" group-title="Canais Abertos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",Band
@@ -56,7 +56,7 @@ https://utvsite.acessaradios.com.br/utvsite/_definst_/utvsite.stream/chunklist_w
 #EXTINF:-1 tvg-name="RedeTV!" group-title="Canais Abertos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",RedeTV!
 https://live.eu-north-1a.cf.dmcdn.net/sec2(ZoZDJa4ZqOUTRULYenjn6n62raUpUKeZ9ejmf0h6u5zn2V1_un82vkh23RaR1eyP6Gl1QeKHfvoQ1bUR3uu2EfcBJ8EOSVNnrQ0ONPU8nseVsGyVAPXyzdRKwSvlrm9U)/dm/3/x8xps0s/d/live-1080.m3u8
 #EXTINF:-1 tvg-name="Reisen Clube TV" group-title="Canais Abertos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",Reisen Clube TV
-https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/720p/index.m3u8
+https://pop.uniquetv.com.br/hls/reisenclubetv.m3u8
 #EXTINF:-1 tvg-name="RS Play TV" group-title="Canais Abertos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",RS Play TV
 https://tv03.zas.media:1936/rsplay/rsplay/chunklist_w42821153.m3u8
 #EXTINF:-1 tvg-name="SBT Interior SP" group-title="Canais Abertos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",SBT Interior SP
@@ -94,7 +94,7 @@ https://video08.logicahost.com.br/tvc21/tvc21/chunklist_w930922724.m3u8
 #EXTINF:-1 tvg-name="TV Gaúcha" group-title="Canais Abertos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",TV Gaúcha
 https://stmv3.voxtvhd.com.br/tvgaucha/tvgaucha/playlist.m3u8
 #EXTINF:-1 tvg-name="Tv Goitacá" group-title="Canais Abertos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",Tv Goitacá
-https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/720p/index.m3u8
+https://video01.brascast.com/david7639/david7639/playlist.m3u8?hls_ctx=j012040t
 #EXTINF:-1 tvg-name="Tv Gramado Net" group-title="Canais Abertos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",Tv Gramado Net
 https://isaocorp.cloudecast.com/tvgramado/tracks-v1/index.m3u8
 #EXTINF:-1 tvg-name="TV HORTOLÂNDIA" group-title="Canais Abertos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",TV HORTOLÂNDIA
@@ -138,7 +138,7 @@ https://srv5.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
 #EXTINF:-1 tvg-name="Rede Globo" group-title="Canais Gerais" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",Rede Globo
 https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/720p/index.m3u8
 #EXTINF:-1 tvg-name="SIC Alta Definição" group-title="Canais Gerais" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",SIC Alta Definição
-https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/720p/index.m3u8
+https://production-fast-sic.content.okast.tv/channels/d9070446-8448-455e-8075-773b1ba12562/fc831b20-f252-4e7d-8cc5-2d05f4d43c1c/media_ge_video_1080p30.m3u8?bpkio_serviceid=fa2e8c4385712f9aa54bbe52b1bd9b6b&bpkio_sessionid=10d1b161b48-c0f0ed3a-9cc1-4ed3-bc17-ebe07c245d5f&category=all&mm_sp
 #EXTINF:-1 tvg-name="SPARK TV LUZ E AMOR" group-title="Canais Gerais" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",SPARK TV LUZ E AMOR
 https://candlelightmedia-sparklightlove-3-br.plex.wurl.tv/4300.m3u8
 #EXTINF:-1 tvg-name="TVM a televisão pública de Moçambique" group-title="Canais Gerais" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",TVM a televisão pública de Moçambique
@@ -254,11 +254,11 @@ https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/720p/index.m3u8
 #EXTINF:-1 tvg-name="Ulisses TV" group-title="Esportes" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",Ulisses TV
 https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/720p/index.m3u8
 #EXTINF:-1 tvg-name="Unique Sports 1" group-title="Esportes" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",Unique Sports 1
-https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/720p/index.m3u8
+https://pop2.uniquetv.com.br/hls/uniquesports1.m3u8
 #EXTINF:-1 tvg-name="Unique Sports 2" group-title="Esportes" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",Unique Sports 2
-https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/720p/index.m3u8
+https://pop2.uniquetv.com.br/hls/uniquesports2.m3u8
 #EXTINF:-1 tvg-name="Unique Sports 3" group-title="Esportes" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",Unique Sports 3
-https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/720p/index.m3u8
+https://pop2.uniquetv.com.br/hls/uniquesports3.m3u8
 #EXTINF:-1 tvg-name="Xsports" group-title="Esportes" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",Xsports
 https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/720p/index.m3u8
 #EXTINF:-1 tvg-name="Adrenalina Pura TV" group-title="Filmes" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",Adrenalina Pura TV
