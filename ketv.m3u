@@ -17,6 +17,8 @@ https://cbtvnow.com:5866/hls/livest2024_1080p/index.m3u8
 https://br5093.streamingdevideo.com.br/bstv/bstv/chunklist_w614911970.m3u8
 #EXTINF:-1 tvg-name="Canal 2 Cultura" group-title="Canais Abertos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",Canal 2 Cultura
 https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8?vhost=player-tvcultura.stream.uol.com.br
+#EXTINF:-1 tvg-name="Canal EOL (Canal Esportes Online) ao vivo Canal EOL, O Seu Esporte Onde Você Estiver" group-title="Canais Abertos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",Canal EOL (Canal Esportes Online) ao vivo Canal EOL, O Seu Esporte Onde Você Estiver
+https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/720p/index.m3u8
 #EXTINF:-1 tvg-name="Canal Futura" group-title="Canais Abertos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",Canal Futura
 https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/720p/index.m3u8
 #EXTINF:-1 tvg-name="CHANNEL 1" group-title="Canais Abertos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",CHANNEL 1
@@ -165,6 +167,8 @@ https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/720p/index.m3u8
 https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/720p/index.m3u8
 #EXTINF:-1 tvg-name="FOX Kids F. Rede Crianças" group-title="Desenhos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",FOX Kids F. Rede Crianças
 https://video08.logicahost.com.br/kanucatv/kanucatv/chunklist_w412316835.m3u8
+#EXTINF:-1 tvg-name="Galinha Pintadinha" group-title="Desenhos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",Galinha Pintadinha
+https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/720p/index.m3u8
 #EXTINF:-1 tvg-name="Geekdot" group-title="Desenhos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",Geekdot
 https://stream.ichibansys.com:3764/hybrid/play.m3u8
 #EXTINF:-1 tvg-name="Gospel Cartoon" group-title="Desenhos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",Gospel Cartoon
@@ -181,7 +185,11 @@ https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/720p/index.m3u8
 https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/720p/index.m3u8
 #EXTINF:-1 tvg-name="Otaku Sign TV" group-title="Desenhos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",Otaku Sign TV
 https://stmv1.srvif.com/anime/anime/playlist.m3u8
+#EXTINF:-1 tvg-name="Patati Patatá" group-title="Desenhos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",Patati Patatá
+https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/720p/index.m3u8
 #EXTINF:-1 tvg-name="Pica Pau" group-title="Desenhos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",Pica Pau
+https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/720p/index.m3u8
+#EXTINF:-1 tvg-name="Power Rangers" group-title="Desenhos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",Power Rangers
 https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/720p/index.m3u8
 #EXTINF:-1 tvg-name="Retro TV" group-title="Desenhos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",Retro TV
 https://stmv1.video.brstream.com.br/retrotv/retrotv/chunklist_w1037183707.m3u8
@@ -198,7 +206,7 @@ https://stmv1.transmissaodigital.com/tvkidmais/tvkidmais/playlist.m3u8?hls_ctx=5
 #EXTINF:-1 tvg-name="TV Maná 2" group-title="Desenhos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",TV Maná 2
 https://w1.manasat.com/tvmana-2/smil:tvmana-2.smil/chunklist_w1005453751_b3048000_sleng.m3u8
 #EXTINF:-1 tvg-name="Canal 25" group-title="Documentários" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",Canal 25
-https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
+https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/720p/index.m3u8
 #EXTINF:-1 tvg-name="Hardcore Pawn ao vivo — negociações, conflitos e loja de penhores" group-title="Documentários" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",Hardcore Pawn ao vivo — negociações, conflitos e loja de penhores
 https://amg00627-amg00627c47-plex-international-8092.playouts.now.amagi.tv/1080p-cc-por/index.m3u8
 #EXTINF:-1 tvg-name="Nature Time Brasil" group-title="Documentários" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",Nature Time Brasil
@@ -209,6 +217,8 @@ https://video01.logicahost.com.br/agronosso/agronosso/chunklist_w149846283.m3u8
 https://video10.logicahost.com.br/tvhistoria/tvhistoria/chunklist_w770728565.m3u8
 #EXTINF:-1 tvg-name="WILDEARTH" group-title="Documentários" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",WILDEARTH
 https://wildearth-ono.amagi.tv/ts-us-w2-n1/playlist/amg01290-wildearth-oando/cb573e1e7b6c608d84c83f60cef24282967b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258a8744cc59e0a957f39e8fc8b307b24455a9c5a43e6a64ed6abb64244dd6ebfb102488b2f57f38b45c1821fee89d346cf4a8e25ec159cc4f196da468a838c36f801e1315f0b242fcad329a12e3cdcabf2e3842f1052243c67a4c5b1ec4f268f4b3124929df89e15319753eb5fec5338ae14900fa53d8f79a30aa69b3ec8577e6c23335083d15a7332acedaf99b9415b2cba49c39bbf404ce39f277948895dd9372737da9aa171d49445c6e671c2dc036c70de7d9c9094e523964cde88487292e054d24c634366160b855ceda96cd416ed79bdc21c1bfb2c2eb0b75ade8fd552312d1ac8d01e9c2412b7df8494cc4e15fe204a0aa630821b3265c2623827a535afce752ca8361a89300afe5a1e8956b3ed7fa2e988b346739ef6f36fd323afb903d9f3428e683f520dfab20f57574370d5a137586237930bb49d9aa1440806ede5c4b195006f496a4112298fe5a821cedc8e7953468f0354151e7a209f0ad266c81309517ebb79fd984925d5487157a9cd5670536f84c7a28e81c2b82d9876d0ddf22a203d4d19d31601216b93fbcd6ef4364f716d4ec2684046ae0c4e4dfa9fa8b179e1b65e0ed0cc6051d40a5b89d00e656adefc04e928be/4/1920x1080_4716800/index.m3u8
+#EXTINF:-1 tvg-name="Azteca Deportes Liga MX, Seleção Mexicana, boxe e NFL com a equipe esportiva da TV Azteca Ao vivo Esportes Futebol Espanhol" group-title="Esportes" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",Azteca Deportes Liga MX, Seleção Mexicana, boxe e NFL com a equipe esportiva da TV Azteca Ao vivo Esportes Futebol Espanhol
+https://azt-mun.otteravision.com/azt/mun/mun_1080p.m3u8
 #EXTINF:-1 tvg-name="Barça TV" group-title="Esportes" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",Barça TV
 https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/cb543e1e7b6c678e9dd43662cef340a3f9591fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7356db80148b61299bce8c37683f03409a5e5afba358b1ebe35a4cd13ff3b71d55c77a46e19f43c8821da689865b9a5ed370f847ccc6f588d613d78ff3de986d935c83e5911ce3e25ba18b3b94c89b73309003502c7c66c7d35d7ad35efc2a7053edebc3ff44f216dc8026801a4ad3e03cfde542fc5809caa8a16ca5bfb5de504536e4c0542104a1e8b085b9415b2cba49c39bbf404ce39f277948895dd9372737da9d9953eca664a46e5d603fb84a98b97192bb7f30a4c810c73bbd28cfd5fd9b3c0d7d620b3db65cb79662e1e4bc12a7e31c3b554148acd5008ad69916076b41828f49c753358d9bdad3915e608a571254be34821b1d3a987d2c5df53df59f0b698b0d03917a68a80f7bd314bcf007dd93f6c94a7bb9d7cc47bf48eab601ddbf428a652e560fb6bd7d0a11022d9ebe285d704ac243e5c1c3ae225a57a2a49b8cb5395230301956039cf1a721cbfca7072956900368300e537df023d966d80c4c7a5eea16c1a30471c54b611aefa93b524d7fd4af958494ddde4ba575b19aaed94ef9fcfe0855669f0ae627872e54985d0c6be4daa6a4/53/1920x1080_5129264/index.m3u8
 #EXTINF:-1 tvg-name="Canal do Benja" group-title="Esportes" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",Canal do Benja
@@ -217,14 +227,22 @@ https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/720p/index.m3u8
 https://cng-cngt.otteravision.com/cng/cngt/cngt_720.m3u8
 #EXTINF:-1 tvg-name="CazéTV" group-title="Esportes" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",CazéTV
 https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/1080p-cc/index.m3u8
+#EXTINF:-1 tvg-name="CnAr Desportes Futebol sul-americano, automobilismo, lutas e mais esportes com sotaque argentino" group-title="Esportes" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",CnAr Desportes Futebol sul-americano, automobilismo, lutas e mais esportes com sotaque argentino
+https://stmv6.voxtvhd.com.br/cnardeportes/cnardeportes/playlist.m3u8
+#EXTINF:-1 tvg-name="DEPORTV Futebol feminino, Eliminatórias, basquete, vôlei e rugby no canal público argentino" group-title="Esportes" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",DEPORTV Futebol feminino, Eliminatórias, basquete, vôlei e rugby no canal público argentino
+https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/720p/index.m3u8
 #EXTINF:-1 tvg-name="Desimpedidos" group-title="Esportes" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",Desimpedidos
 https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/720p/index.m3u8
 #EXTINF:-1 tvg-name="Drive Channel TV" group-title="Esportes" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",Drive Channel TV
 https://stmv1.voxplayer.com.br/drivechannel/drivechannel/chunklist_w330635911.m3u8
+#EXTINF:-1 tvg-name="FC WEB TV" group-title="Esportes" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",FC WEB TV
+https://5c483b9d1019c.streamlock.net/fcwebtv/fcwebtv/chunklist_w74868295.m3u8
 #EXTINF:-1 tvg-name="FUEL TV Brasil" group-title="Esportes" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",FUEL TV Brasil
 https://amg01074-fueltv-fueltvbr-samsungbr-s1bib.amagi.tv/ts-us-w2-n2/playlist/amg01074-fueltv-fueltvbr-samsungbr/cb543e1e7b6c608d84c83f63cef043a4f94b1fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7353db80148b61299bce8c37683f03409a5e5afba358b38ab50a5ad969a0af1c56953145f5964798d61cb989dd0e834ad371f1099c93a68ace19d680937eaf06b0370f0a272c988220c0fbbad7b0eb01b321c2493c7c77d4e1f5dc5c3d9c4e4f2e8095a98c448fdd4a1447fb0d04b4158c47c411876eb800a4e034d0c5411af1204bcde34e6035b5e9a885e87747d5f7271088af114fa98c7d4b46c62de8233e349fb7ac7ee19342c6e673d7f3017749888fa94296bbd44fc971195ef19d9fd33877336f6e01108f5ea3d55eda26e248a9db1f2e66ea25c78778cb9cd0523c6300d3ce0e945b2cb0d58f8cc81d7be4545b0bb82e8900455bc53a3a28be6de1cc6825c9071a953938cc5d37ab4be8f779a6f095b6507bfdf5ef76d243a3f506dbfd07e94a395a09bcbb6c7c4d5e72ddeb295c65288d15aa8384b1373a01eaf6dff78f066b507744044caee6e03fcadb91674d58911d7612017a7da10dd86dd0175a407f996cb4823d34d4566f7d9ce85534776595dabe9288d0de36dc52daccef363c345f77c75d202269d6f6c019ca31457a754a934d0367b8145156e585c386c8d13f2efde562f0d6727dc792f71e352c7de8bd01c2222a45df/111/1920x1080_4716800/index.m3u8
 #EXTINF:-1 tvg-name="ge tv" group-title="Esportes" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",ge tv
 https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/720p/index.m3u8
+#EXTINF:-1 tvg-name="Livre TV ao vivo Notícias, futebol amador e eventos de Parnamirim e da Grande Natal na web TV" group-title="Esportes" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",Livre TV ao vivo Notícias, futebol amador e eventos de Parnamirim e da Grande Natal na web TV
+https://video02.logicahost.com.br/livretv/livretv/main_stream.m3u8
 #EXTINF:-1 tvg-name="MAVTV BRASIL" group-title="Esportes" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",MAVTV BRASIL
 https://amg16379-sports7-amg16379c2-tcl-us-4436.playouts.now.amagi.tv/playlist1080.m3u8
 #EXTINF:-1 tvg-name="Metrópoles Esportes" group-title="Esportes" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",Metrópoles Esportes
@@ -255,6 +273,8 @@ https://video07.logicahost.com.br/rsnews01/rsnews01/playlist.m3u8
 https://hrm-sftc.otteravision.com/hrm/sftc/sftc_720p_high.m3u8
 #EXTINF:-1 tvg-name="SportyNet" group-title="Esportes" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",SportyNet
 https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/720p/index.m3u8
+#EXTINF:-1 tvg-name="TV Turfe ao vivo Corridas de cavalo ao vivo no Rio de Janeiro, com tradição do turfe e clima de pista" group-title="Esportes" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",TV Turfe ao vivo Corridas de cavalo ao vivo no Rio de Janeiro, com tradição do turfe e clima de pista
+https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/720p/index.m3u8
 #EXTINF:-1 tvg-name="Ulisses TV" group-title="Esportes" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",Ulisses TV
 https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/720p/index.m3u8
 #EXTINF:-1 tvg-name="Unique Sports 1" group-title="Esportes" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",Unique Sports 1
@@ -271,6 +291,8 @@ https://amg00740-sofa-amg00740c7-tcl-us-7126.playouts.now.amagi.tv/1080p-cc/inde
 https://awtv.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Canal 2 - Tv Nova Juarez" group-title="Filmes" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",Canal 2 - Tv Nova Juarez
 https://stmv2.webtvninjas.com.br/tvnovajuarez/tvnovajuarez/playlist.m3u8
+#EXTINF:-1 tvg-name="Cine Brasil" group-title="Filmes" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",Cine Brasil
+https://stmv2.painelvideocast.com.br/cinebrasil/cinebrasil/chunklist_w1691738076.m3u8
 #EXTINF:-1 tvg-name="Cine Trianon TV Faroeste" group-title="Filmes" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",Cine Trianon TV Faroeste
 https://amogonetworx-grjngo-1-eu.plex.wurl.tv/4300.m3u8
 #EXTINF:-1 tvg-name="CineBrasil TV" group-title="Filmes" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",CineBrasil TV
@@ -409,6 +431,8 @@ https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/720p/index.m3u8
 https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
 #EXTINF:-1 tvg-name="89 A Rádio Rock ao vivo — clássicos e novidades do rock" group-title="Música" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",89 A Rádio Rock ao vivo — clássicos e novidades do rock
 https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/720p/index.m3u8
+#EXTINF:-1 tvg-name="ADBTV ao vivo Igreja Evangélica - Assembleia de Deus de Lisboa" group-title="Música" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",ADBTV ao vivo Igreja Evangélica - Assembleia de Deus de Lisboa
+https://live.wayone.cloud/adbtv/adbtv/chunklist_w589026580.m3u8
 #EXTINF:-1 tvg-name="Alpha FM ao vivo — música de bom gosto online" group-title="Música" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",Alpha FM ao vivo — música de bom gosto online
 https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/720p/index.m3u8
 #EXTINF:-1 tvg-name="Betelhost Sertanejo" group-title="Música" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",Betelhost Sertanejo
@@ -427,16 +451,22 @@ https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/ts-eu-w1-n2/p
 https://lightning-now90s-rakuten.amagi.tv/playlist1080.m3u8
 #EXTINF:-1 tvg-name="TV Café Viola ao vivo — sertanejo, entrevistas e eventos" group-title="Música" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",TV Café Viola ao vivo — sertanejo, entrevistas e eventos
 https://srv5.zcast.com.br/tvcafe/tvcafe/playlist.m3u8
+#EXTINF:-1 tvg-name="Tv Portal HD" group-title="Música" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",Tv Portal HD
+https://flussonic-tv2.jupiter.com.br/portalativo/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="TV Rock" group-title="Música" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",TV Rock
 https://video03.logicahost.com.br/tvrockhd/tvrockhd/chunklist_w267766466.m3u8
 #EXTINF:-1 tvg-name="Tv Rádio Litoral" group-title="Música" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",Tv Rádio Litoral
 https://video08.logicahost.com.br/tvradiolitoral/tvradiolitoral/chunklist_w1391490466.m3u8
+#EXTINF:-1 tvg-name="Tv São Raimundo" group-title="Música" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",Tv São Raimundo
+https://stmv1.voxtvhd.com.br/9030/9030/playlist.m3u8
 #EXTINF:-1 tvg-name="Yeeaah Dois" group-title="Música" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",Yeeaah Dois
 https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/720p/index.m3u8
 #EXTINF:-1 tvg-name="ZOOM MUSIC" group-title="Música" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",ZOOM MUSIC
 https://stmv5.samcast.com.br/zoommusic/zoommusic/playlist.m3u8
 #EXTINF:-1 tvg-name="40 Graus TV ao vivo — turismo, cultura e destinos brasileiros" group-title="Notícias" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",40 Graus TV ao vivo — turismo, cultura e destinos brasileiros
 https://40gtv-aovivo.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1 tvg-name="Band News" group-title="Notícias" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",Band News
+https://amg29547-amg29547c2-amgplt0728.playout.now3.amagi.tv/bndnws-std-cc/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-name="BM&C News" group-title="Notícias" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",BM&C News
 https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/720p/index.m3u8
 #EXTINF:-1 tvg-name="BRT TV" group-title="Notícias" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",BRT TV
@@ -461,5 +491,7 @@ https://sbtnews.maissbt.com/3.m3u8
 https://5cf4a2c2512a2.streamlock.net/tvcnb/tvcnb/chunklist_w2052209439.m3u8
 #EXTINF:-1 tvg-name="TV Jovem Pan News" group-title="Notícias" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",TV Jovem Pan News
 https://amg01391-amg01391c3-tcl-spain-5038.playouts.now.amagi.tv/playlist1080-p.m3u8
+#EXTINF:-1 tvg-name="TVI24 O canal de notícias da TVI que deu lugar à CNN Portugal, com informação o dia todo" group-title="Notícias" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",TVI24 O canal de notícias da TVI que deu lugar à CNN Portugal, com informação o dia todo
+https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/720p/index.m3u8
 #EXTINF:-1 tvg-name="TVL News" group-title="Notícias" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",TVL News
 https://cdn-luzilandi-10589.ciclano.io:1443/luzilandi-10589/luzilandi-10589/chunklist_w2027291951.m3u8
