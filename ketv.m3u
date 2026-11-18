@@ -14,7 +14,7 @@ https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/720p/index.m3u8
 #EXTINF:-1 tvg-name="Brazi TV" group-title="Canais Abertos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",Brazi TV
 https://cbtvnow.com:5866/hls/livest2024_1080p/index.m3u8
 #EXTINF:-1 tvg-name="BS TV" group-title="Canais Abertos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",BS TV
-https://br5093.streamingdevideo.com.br/bstv/bstv/chunklist_w614911970.m3u8
+https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/720p/index.m3u8
 #EXTINF:-1 tvg-name="Canal 2 Cultura" group-title="Canais Abertos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",Canal 2 Cultura
 https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8?vhost=player-tvcultura.stream.uol.com.br
 #EXTINF:-1 tvg-name="Canal EOL (Canal Esportes Online) ao vivo Canal EOL, O Seu Esporte Onde Você Estiver" group-title="Canais Abertos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",Canal EOL (Canal Esportes Online) ao vivo Canal EOL, O Seu Esporte Onde Você Estiver
@@ -47,6 +47,8 @@ https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f
 https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m3u8
 #EXTINF:-1 tvg-name="REDE BRASIL DE COMUNICAÇÃO" group-title="Canais Abertos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",REDE BRASIL DE COMUNICAÇÃO
 https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/720p/index.m3u8
+#EXTINF:-1 tvg-name="Rede Impacto Gospel TV" group-title="Canais Abertos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",Rede Impacto Gospel TV
+https://radiosnet.site/hls/redeimpactogospeltv/redeimpactogospeltv.m3u8
 #EXTINF:-1 tvg-name="Rede Minas" group-title="Canais Abertos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",Rede Minas
 https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/chunklist_b2771072.m3u8
 #EXTINF:-1 tvg-name="Rede MultTV" group-title="Canais Abertos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",Rede MultTV
@@ -118,7 +120,7 @@ https://w2.manasat.com/tvmana-mz/smil:tvmana-mz.smil/chunklist_w236221556_b41300
 #EXTINF:-1 tvg-name="TV MARCHETI" group-title="Canais Abertos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",TV MARCHETI
 https://stmv1.samcast.com.br/junior4319/junior4319/playlist.m3u8
 #EXTINF:-1 tvg-name="TV MAX" group-title="Canais Abertos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",TV MAX
-https://video09.logicahost.com.br/tvmax/tvmax/chunklist_w427239309.m3u8
+https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/720p/index.m3u8
 #EXTINF:-1 tvg-name="TV MONTANHA" group-title="Canais Abertos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",TV MONTANHA
 https://stmv1.srvif.com/tvmontana/tvmontana/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Pampa" group-title="Canais Abertos" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",TV Pampa
@@ -154,7 +156,7 @@ https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/720p/index.m3u8
 #EXTINF:-1 tvg-name="SPARK TV LUZ E AMOR" group-title="Canais Gerais" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",SPARK TV LUZ E AMOR
 https://candlelightmedia-sparklightlove-3-br.plex.wurl.tv/4300.m3u8
 #EXTINF:-1 tvg-name="TVM Internacional ao vivo — televisão pública moçambicana" group-title="Canais Gerais" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",TVM Internacional ao vivo — televisão pública moçambicana
-https://stream.tvm.co.mz/hls/tvmi/playlist.m3u8
+https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/720p/index.m3u8
 #EXTINF:-1 tvg-name="Bem Melhor" group-title="Culinária" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",Bem Melhor
 https://video01.logicahost.com.br/bemmelhor/bemmelhor/chunklist_w1111299609.m3u8
 #EXTINF:-1 tvg-name="Master Chef Brasil" group-title="Culinária" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",Master Chef Brasil
@@ -456,7 +458,7 @@ https://lightning-now90s-rakuten.amagi.tv/playlist1080.m3u8
 #EXTINF:-1 tvg-name="TV Café Viola ao vivo — sertanejo, entrevistas e eventos" group-title="Música" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",TV Café Viola ao vivo — sertanejo, entrevistas e eventos
 https://srv5.zcast.com.br/tvcafe/tvcafe/playlist.m3u8
 #EXTINF:-1 tvg-name="Tv Portal HD" group-title="Música" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",Tv Portal HD
-https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/720p/index.m3u8
+https://flussonic-tv2.jupiter.com.br/portalativo/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="TV Rock" group-title="Música" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",TV Rock
 https://video03.logicahost.com.br/tvrockhd/tvrockhd/chunklist_w267766466.m3u8
 #EXTINF:-1 tvg-name="Tv Rádio Litoral" group-title="Música" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",Tv Rádio Litoral
