@@ -356,7 +356,7 @@ https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 #EXTINF:-1 tvg-name="Tv Santa" group-title="Filmes" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",Tv Santa
 https://video04.logicahost.com.br/tvsanta/tvsanta/main_stream.m3u8
 #EXTINF:-1 tvg-name="Viva Web Tv" group-title="Filmes" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",Viva Web Tv
-https://video01.brascast.com/cypriano46326/cypriano46326/playlist.m3u8
+https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/720p/index.m3u8
 #EXTINF:-1 tvg-name="VRT Channel" group-title="Filmes" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",VRT Channel
 https://sistemavrt2023.vrtchannel.tv.br:3626/hybrid/play.m3u8
 #EXTINF:-1 tvg-name="Web TV Cine" group-title="Filmes" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",Web TV Cine
@@ -458,7 +458,7 @@ https://lightning-now90s-rakuten.amagi.tv/playlist1080.m3u8
 #EXTINF:-1 tvg-name="TV Café Viola ao vivo — sertanejo, entrevistas e eventos" group-title="Música" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",TV Café Viola ao vivo — sertanejo, entrevistas e eventos
 https://srv5.zcast.com.br/tvcafe/tvcafe/playlist.m3u8
 #EXTINF:-1 tvg-name="Tv Portal HD" group-title="Música" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",Tv Portal HD
-https://flussonic-tv2.jupiter.com.br/portalativo/tracks-v1a1/mono.ts.m3u8
+https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/720p/index.m3u8
 #EXTINF:-1 tvg-name="TV Rock" group-title="Música" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",TV Rock
 https://video03.logicahost.com.br/tvrockhd/tvrockhd/chunklist_w267766466.m3u8
 #EXTINF:-1 tvg-name="Tv Rádio Litoral" group-title="Música" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",Tv Rádio Litoral
